@@ -1,0 +1,13 @@
+{
+  "name": "EyeLink",
+  "short_name": "EyeLink",
+  "description": "Head-controlled communication app for patients and caretakers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf1f4",
+  "theme_color": "#14808f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
